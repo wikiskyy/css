@@ -1,1 +1,4 @@
-url('https://fonts.googleapis.com/css?family=Dosis:300,400,500'); /* 1111 */
+body {
+    background-image: url(images/csXKqrjs.png); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
+   }

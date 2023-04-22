@@ -1,4 +1,6 @@
 body {
-    background-image: url(images/csXKqrjs.png); /* Путь к фоновому изображению */
-    background-color: #c7b39b; /* Цвет фона */
+    bgcolor= #c0c0c0; 
+    background="https://i.pinimg.com/originals/ab/0d/b7/ab0db74ea84d50b8258bd41994af6dcc.png"; ;  
+    bgproperties="fixed"; 
+    /*  background-image: url(/images/csXKqrjs.png);  Путь к фоновому изображению */
    }

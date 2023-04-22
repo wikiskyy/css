@@ -23,19 +23,19 @@ h1{
   
 @keyframes bg-css {
   0% {
-      background: url("https://pi-ltsp.net/images/desktop-background.png");
+      background: url("https://i.pinimg.com/originals/16/11/0e/16110e8a325518926af9c6df9b067093.png");
     background-size: cover;
   }
   50%{
-    background: url("https://1.bp.blogspot.com/-SCJtkurU480/T8ssRdJ09kI/AAAAAAAAEsU/M6KtMLADXqQ/s1600/Black_bg_theme_1920x1080_wallpapers.jpg");
+    background: url("https://i.pinimg.com/originals/99/45/d5/9945d51f6521d93e330b733ee85c3ab5.png");
     background-size: cover;
   }
     95% {
-      background: url(http://webneel.com/wallpaper/sites/default/files/images/07-2014/2-black-wallpaper.jpg);
+      background: url("https://i.pinimg.com/originals/90/d4/fc/90d4fc679efacc277f627c3ce0279f21.png"");
       background-size: cover;
   }
   100%{
-     background: url("https://pi-ltsp.net/images/desktop-background.png");
+     background: url("https://i.pinimg.com/originals/ab/0d/b7/ab0db74ea84d50b8258bd41994af6dcc.png");
     background-size: cover;
   }
 }

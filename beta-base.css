@@ -26,16 +26,20 @@ h1{
       background: url("https://i.pinimg.com/originals/16/11/0e/16110e8a325518926af9c6df9b067093.png");
     background-size: cover;
   }
-  50%{
+  20%{
     background: url("https://i.pinimg.com/originals/99/45/d5/9945d51f6521d93e330b733ee85c3ab5.png");
     background-size: cover;
   }
-    85% {
+    40% {
       background: url("https://i.pinimg.com/originals/90/d4/fc/90d4fc679efacc277f627c3ce0279f21.png");
       background-size: cover;
   }
-  100%{
+  70%{
      background: url("https://i.pinimg.com/originals/ab/0d/b7/ab0db74ea84d50b8258bd41994af6dcc.png");
+    background-size: cover;
+  }
+  100%{
+     background: url("https://i.pinimg.com/originals/16/11/0e/16110e8a325518926af9c6df9b067093.png");
     background-size: cover;
   }
 }

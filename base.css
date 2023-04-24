@@ -1,5 +1,5 @@
 body {
     background: #c7b39b url(https://i.pinimg.com/originals/da/bb/3e/dabb3e3f4dbd9ff61b5b42f2359d8979.png); /* Цвет фона и путь к файлу */
     background-size: 100% /* растянуть на весь єкран */
-    bgproperties="fixed"
+    bgproperties="fixed" /*  оставаться неподвижным */
    }
